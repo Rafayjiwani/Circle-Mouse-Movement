@@ -1,7 +1,7 @@
 # Circle Mouse Movement
 
 ## Overview
-This Python script enables the generation of circular mouse movement patterns on the screen. It utilizes the PyAutoGUI library to control the mouse cursor and performs circular movements based on specified parameters.
+This Python script enables the generation of Circle mouse movement patterns on the screen. It utilizes the PyAutoGUI library to control the mouse cursor and performs circular movements based on specified parameters.
 
 ## Features
 - Generates circular mouse movement patterns on the screen.
@@ -14,7 +14,7 @@ This Python script enables the generation of circular mouse movement patterns on
     ```
     pip install pyautogui
     ```
-3. Clone this repository or download the `circular_mouse_movement.py` file.
+3. Clone this repository or download the `circle_mouse_movement.py` file.
 
 4. or just copy the code and paste it in your .py file
 
@@ -25,7 +25,7 @@ This Python script enables the generation of circular mouse movement patterns on
 
 Example:
 ```python
-from circular_mouse_movement import round_move_mouse
+from circle_mouse_movement import round_move_mouse
 
 # Generate a circular mouse movement, Here 5 is the circle size !!!
 round_move_mouse(5)
