@@ -1,4 +1,4 @@
-# Circle Mouse Movement
+# Circle Mouse Movement / Human Like Cicular Motion with Mouse
 
 ## Overview
 This Python script enables the generation of Circle mouse movement patterns on the screen. It utilizes the PyAutoGUI library to control the mouse cursor and performs circular movements based on specified parameters.
